@@ -124,7 +124,7 @@ npm run dev
 
 | Utilisateur | Login   | Mot de passe |
 | ----------- | ------- | ------------ |
-| Madie       | madie   | motdepasse   |
+| Madie       | madie   | ebeno   |
 | Ousmane     | ousmane | motdepasse   |
 | Test        | test    | test123      |
 
